@@ -30,4 +30,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhimanyusolanki10&show_icons=true&locale=en" alt="abhimanyusolanki10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyusolanki10&" alt="abhimanyusolanki10" /></p>
-[![Abhimanyu_solanki Leetcode stats](https://leetcode-stats-six.vercel.app/?username=Abhimanyu_solanki&theme=dark)](https://github.com/Abhimanyu_solanki/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abhimanyu_solanki&theme=dark)](https://github.com/KnlnKS/leetcode-stats)

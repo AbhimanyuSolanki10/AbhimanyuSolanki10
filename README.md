@@ -31,3 +31,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhimanyusolanki10&" alt="abhimanyusolanki10" /></p>
 [![Abhimanyu_solanki's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Abhimanyu_solanki&theme=dark)](https://github.com/Abhimanyu_solanki/leetcode-stats)
+
+![Snake animation](https://github.com/AbhimanyuSolanki10/AbhimanyuSolanki10/blob/output/github-contribution-grid-snake.svg)

@@ -7,11 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i" target="blank"><img src="https://img.shields.io/twitter/follow/a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i?logo=twitter&style=for-the-badge" alt="a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i" /></a> </p>
 
-- 🔭 I’m currently working on **Apna Cart**
 
 - 🌱 I’m currently learning **mern stack**
 
-- 💬 Ask me about **HTML,CSS,Javascript**
+- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, React**
 
 - 📫 How to reach me **abhimnyusolanki10@.com**
 

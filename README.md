@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, React**
 
-- 📫 How to reach me **abhimnyusolanki10@.com**
+- 📫 How to reach me **abhimnyusolanki10@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1jBLtmI9ZQt2cwe-CTJAuRflswJsuqkXt/view?usp=sharing](https://drive.google.com/file/d/1jBLtmI9ZQt2cwe-CTJAuRflswJsuqkXt/view?usp=sharing)
 

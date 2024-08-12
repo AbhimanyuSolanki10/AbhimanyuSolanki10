@@ -50,5 +50,7 @@
 
 ![](https://leetcard.jacoblin.cool/Abhimanyu_solanki/?ext=heatmap)
 
+<!-- GitHub Contribution Grid Snake Game -->
+![Snake Game](https://github.com/your-username/your-repo-name/raw/main/github-contribution-snake.svg)
 
 

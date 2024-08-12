@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://twitter.com/a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i" target="blank"><img src="https://img.shields.io/twitter/follow/a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i?logo=twitter&style=for-the-badge" alt="a_b_h_i_m_a_n_y_u____s_o_l_a_n_k_i" /></a> </p>
 
 
-- 🌱 I’m currently learning **mern stack**
+- 🌱 I’m currently learning **React.js and Core Java**
 
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, Javascript, React**
+- 💬 Ask me about **HTML, CSS, Javascript, React , Core Java , SQL **
 
 - 📫 How to reach me **abhimnyusolanki10@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1jBLtmI9ZQt2cwe-CTJAuRflswJsuqkXt/view?usp=sharing](https://drive.google.com/file/d/1jBLtmI9ZQt2cwe-CTJAuRflswJsuqkXt/view?usp=sharing)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

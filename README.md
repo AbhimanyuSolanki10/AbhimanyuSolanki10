@@ -50,52 +50,8 @@
 
 ![](https://leetcard.jacoblin.cool/Abhimanyu_solanki/?ext=heatmap)
 
-<!-- GitHub Contribution Grid Snake Game -->
-![Snake Game](https://github.com/your-username/your-repo-name/raw/main/github-contribution-snake.svg)
 
-import matplotlib.pyplot as plt
-import numpy as np
-import random
-import svgwrite
 
-# Define grid size
-grid_size = 7
-grid_width = 52
-
-# Function to generate an SVG snake game based on a grid
-def create_svg_snake_game(filename):
-    dwg = svgwrite.Drawing(filename, profile='tiny', size=(grid_width*10, grid_size*10))
-    dwg.add(dwg.rect(insert=(0, 0), size=(grid_width*10, grid_size*10), fill='white'))
-
-    # Snake initial position and movement
-    snake = [(grid_size // 2, grid_width // 2)]
-    direction = random.choice([(0, 1), (0, -1), (1, 0), (-1, 0)])
-
-    for _ in range(200):  # Number of moves
-        head = snake[-1]
-        new_head = (head[0] + direction[0], head[1] + direction[1])
-
-        # Check for collisions
-        if 0 <= new_head[0] < grid_size and 0 <= new_head[1] < grid_width and new_head not in snake:
-            snake.append(new_head)
-            if len(snake) > 1:
-                snake.pop(0)  # Move snake
-        else:
-            break  # Stop game on collision
-
-        # Draw snake segment
-        for segment in snake:
-            dwg.add(dwg.rect(insert=(segment[1]*10, segment[0]*10), size=(10, 10), fill='green'))
-
-        # Randomly change direction
-        direction = random.choice([(0, 1), (0, -1), (1, 0), (-1, 0)])
-
-    dwg.save()
-
-# Generate SVG
-create_svg_snake_game('github-contribution-snake.svg')
-<!-- GitHub Contribution Grid Snake Game -->
-![Snake Game](https://github.com/your-username/your-repo-name/raw/main/github-contribution-snake.svg)
 
 
 
